@@ -1,0 +1,15 @@
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\bin\Debug\Parcial-2.exe.config
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\bin\Debug\Parcial-2.exe
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\bin\Debug\Parcial-2.pdb
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\obj\Debug\Parcial-2.csproj.AssemblyReference.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\obj\Debug\Parcial-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\obj\Debug\Parcial-2.csproj.CoreCompileInputs.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\obj\Debug\Parcial-2.exe
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\obj\Debug\Parcial-2.pdb
+C:\Users\josec\OneDrive\Escritorio\Serie 2 parcial 2\Parcial-2\Parcial-2\obj\Debug\Parcial-2.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Escritorio\Serie 2 parcial 2\Parcial-2\Parcial-2\obj\Debug\Parcial-2.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Escritorio\Serie 2 parcial 2\Parcial-2\Parcial-2\obj\Debug\Parcial-2.exe
+C:\Users\josec\OneDrive\Escritorio\Serie 2 parcial 2\Parcial-2\Parcial-2\obj\Debug\Parcial-2.pdb
+C:\Users\josec\OneDrive\Escritorio\Serie 2 parcial 2\Parcial-2\Parcial-2\bin\Debug\Parcial-2.exe.config
+C:\Users\josec\OneDrive\Escritorio\Serie 2 parcial 2\Parcial-2\Parcial-2\bin\Debug\Parcial-2.exe
+C:\Users\josec\OneDrive\Escritorio\Serie 2 parcial 2\Parcial-2\Parcial-2\bin\Debug\Parcial-2.pdb
